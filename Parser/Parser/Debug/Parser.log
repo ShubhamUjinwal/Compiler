@@ -1,0 +1,8 @@
+﻿  scanner.c
+  platy.c
+  parser.c
+  buffer.c
+c:\users\asus\documents\visual studio 2015\projects\parser\parser\buffer.c(300): warning C4098: 'b_free': 'void' function returning a value
+  Generating Code...
+  Parser.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\Parser\Debug\Parser.exe
+  Parser.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\Parser\Debug\Parser.pdb (Full PDB)
